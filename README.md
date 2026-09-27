@@ -9,6 +9,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [0485-max-consecutive-ones](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
