@@ -40,4 +40,9 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [0050-powx-n](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kritixverma/150-days-of-leetcode-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
